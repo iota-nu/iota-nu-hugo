@@ -25,6 +25,7 @@ Please send any news or change of address to:
     Baltimore, MD 21212-3140
 
 
-### (Not Really) Current Editions
+### Online Editions:
 
-    Easter 2008:  (TODO)
+* [Easter 2008](/media/cliffhanger-08-1.pdf)
+

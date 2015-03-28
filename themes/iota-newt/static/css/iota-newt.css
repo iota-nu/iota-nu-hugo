@@ -20,6 +20,10 @@ h1 {
   background-color: white;
 }
 
+.content a:hover {
+  color: #003300
+}
+
 .content table {
   border: 1px solid black;
   padding: 8px;
@@ -41,7 +45,6 @@ h1 {
 
 .menu_table td:hover {
   background-color: white;
-  /*border: 1px solid black;*/
   display: block;
   text-decoration: none;
 }

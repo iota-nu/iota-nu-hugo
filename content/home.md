@@ -13,6 +13,8 @@ aliases = [ "/" ]
 
 This site is a proposal for a 2015 Reboot of the Iota Nu website.
 
+![The House](/media/house_front.jpg)
+
 The content was copied from http://iotanu.org/ as best as I could.
 Use the menu links at the top to find the content.
 
@@ -24,5 +26,4 @@ The demo is served from http://iotanu.yak.net/.
 
 Send comments & suggestions to the email address 
 in which *strick* is the name and *yak* dot *net* is the domain.
-
 
