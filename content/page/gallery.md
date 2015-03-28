@@ -10,9 +10,10 @@ aliases = [
 
 +++
 
+A photo gallery is on [Flickr](http://flickr.com)
+in the group "SewaneeLXA".
 
-If you would like to add a photo to this gallery, simply add them to the SewaneeLXA group at flickr.com. 
+You can add to that gallery.
 
-Any photos uploaded there will (TODO) show up here as well (once an administrator gives a once-over). 
+Flickr is said to have Tons of Tools to help you.
 
-Flickr has tons of tools which can help speed up the process, too.
