@@ -1,0 +1,11 @@
+{{ template "theme/_default/header.html" . }}
+
+<h1> {{ .Title }} </h1>
+
+<ul class="list_ul">
+  {{ range .Data.Pages.ByDate }}
+       {{ .Render "listitem" }}
+  {{ end }}
+</ul>
+
+{{ template "theme/_default/footer.html" . }}

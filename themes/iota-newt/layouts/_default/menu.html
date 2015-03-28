@@ -1,0 +1,11 @@
+<center>
+<table border=0 class="menu_table"><tr class="menu_tr">
+
+  {{ range .Site.Menus.main }}
+    <td class="menu_td">
+      <a class="menu_a" href="{{.URL}}">
+         {{ .Pre }}<span>{{ .Name }}</span></a>
+  {{end}}
+
+</tr></table>
+</center>

@@ -1,0 +1,47 @@
+body {
+  background-color: #003300;
+  font-family: Arial;
+}
+
+.yellow_text {
+  color: yellow;
+}
+
+h1 {
+  background-color: yellow;
+  padding: 5px;
+}
+
+.single_table {
+  background-color: white;
+}
+
+.content {
+  background-color: white;
+}
+
+.content table {
+  border: 1px solid black;
+  padding: 8px;
+}
+
+.menu_td {
+  background-color: yellow;
+}
+
+.menu_table a {
+  border: 0px solid gray;
+  display: block;
+  text-decoration: none;
+  padding: 5px;
+  color: green;
+  font-weight: bold;
+  font-size: 120%;
+}
+
+.menu_table td:hover {
+  background-color: white;
+  /*border: 1px solid black;*/
+  display: block;
+  text-decoration: none;
+}
